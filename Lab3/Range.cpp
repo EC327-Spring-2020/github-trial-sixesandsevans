@@ -31,8 +31,6 @@ int main() {
 		cout << "Bye!!" << endl;
 	}
 
-	cout << "Starting: " << Start << " Step: " << Step << " Stopping: " << Stop << endl;
-
 	 return 0;
 	
 }
